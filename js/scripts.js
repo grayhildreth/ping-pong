@@ -1,5 +1,4 @@
 $(document).ready(function(){
-  event.preventDefault();
-
-  
+  $("#pingpong").submit(function(event) {
+    event.preventDefault();
 }
