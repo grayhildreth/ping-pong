@@ -1,3 +1,7 @@
 .form-group {
   width: 40%;
 }
+
+img {
+  float: right;
+}
